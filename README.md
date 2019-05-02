@@ -4,9 +4,9 @@ An extremely simple real-time calculator with no more than 300 statements
 # Setup of compiling and executing the program:
 1.Install Java and config it.
 3.open cmd to type following commands:
-  cd {file_directory}
-  javac –sourcepath . –d bin src/*.java
-  java -cp . bin/mainFrame
+  cd {file_directory}    
+  javac –sourcepath . –d bin src/*.java    
+  java -cp bin mainFrame       
 
 # User manual
 1. Two calculators are provided: clever calculator and temperature converter. You can switch two calculators in the left-top button 'choice'.
